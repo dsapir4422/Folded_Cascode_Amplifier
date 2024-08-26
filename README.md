@@ -4,7 +4,7 @@ In This project I will show the design of a folded cascode amplifier in 65[nm] t
 ## Design specification
 * VDD = 1.8[V]
 * DC Gain > 60 dB
-* PM < 45 [deg]
+* PM > 45 [deg]
 * GBW > 4[MHz]
 * C load = 5[pF]
 * DC offset < 0.5mV
